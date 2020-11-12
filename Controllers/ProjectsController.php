@@ -11,10 +11,12 @@ require_once(_ROOT."/".'Models/Projects.php');*/
 
 class ProjectsController extends BController
 {
+    private $projects;
+
     public function __construct()
     {
         parent::__construct();
-        $this->model = new Projects();
+        $this->projects = new Projects();
         $this->view = new View();
 
     }
@@ -23,7 +25,7 @@ class ProjectsController extends BController
     {
 
 
-        $dataArray = array('projectList'=>$this->model->GetUserProjectsList($this->user->GetId()),'logStatus'=>$this->user->GetStatus(),'viewName'=>'ProjectsView.php');
+        $dataArray = array('projectList'=>$this->projects->GetUserProjectsList($this->user->GetId()),'logStatus'=>$this->user->GetStatus(),'viewName'=>'ProjectsView.php');
         $this->view->RenderView($dataArray);
 
 
@@ -31,7 +33,7 @@ class ProjectsController extends BController
     public function LoadAllProjectsAction()
     {
 
-        $dataArray = array('projectList'=>$this->model->GetAllProjectsList(),'logStatus'=>$this->user->GetStatus(),'viewName'=>'ProjectsView.php');
+        $dataArray = array('projectList'=>$this->projects->GetAllProjectsList(),'logStatus'=>$this->user->GetStatus(),'viewName'=>'ProjectsView.php');
         $this->view->RenderView($dataArray);
 
 
@@ -39,7 +41,7 @@ class ProjectsController extends BController
     public function LoadProjectAction($id)
     {
 
-        $project =  $this->model->GetProject($id);
+        $project =  $this->projects->GetProject($id);
         $this->editor->SetName($project['name']);
         $this->editor->LoadToEditor($project['content']);
 
