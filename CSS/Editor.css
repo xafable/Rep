@@ -1,0 +1,135 @@
+body
+{
+    background: #1E1F26;
+}
+#htmlarea{
+    background: url(/numeration.png);
+    background-attachment: local;
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    padding-top: 10px;
+    width: 100%;
+    line-height:16px;
+}
+#htmlform{
+    margin-top: 2px;
+    color: yellow;
+    background: #1D1E22;
+}
+ul.hr
+{
+
+    display: inline-block;
+}
+ul.hr li
+{
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 5px;
+    height: 45px;
+    width:15% ;
+    background: #5A6074;
+    color: white;
+    display: inline; /* Отображать как строчный элемент */
+
+
+}
+
+ul.hr li a
+{
+
+    padding: 35px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+    text-decoration: none;
+}
+
+#menu
+{
+
+    display:inline-block;
+    float: right;
+    border: 10px;
+    position: absolute;
+    height: 45px;
+    width: 500px;
+    margin-top: 7px;
+    margin-left: 70%;
+
+
+}
+
+
+
+
+
+
+input[type="submit"],.btt {
+    color: White;
+    background-color:#5A6074;
+    border:1px solid;
+    border-color: transparent;
+     margin-left: 15px;
+     margin-top: 15px;
+     border-radius: 5px;
+     padding-top: 8px;
+     padding-bottom: 8px;
+}
+
+input[type="submit"]:hover,.btt:hover {
+    border:1px solid;
+    border-color: transparent;
+    transform: scale(1.1);
+
+}
+
+input[type="submit"]:active,.btt:active {
+    color: Yellow;
+    background-color:#5A6074;
+    border-color: transparent;
+
+}
+
+
+
+#uplbutton {
+
+    background-color: indigo;
+    color: white;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-bottom: 9px;
+}
+
+#uplbutton span {
+    display:none;
+}
+#uplbutton:hover {
+    background: #CCC;
+}
+#uplbutton:active {
+    background: #CCF;
+}
+#uplbutton :invalid ~ .myLabel-default {
+    display: inline;
+}
+#uplbutton :valid ~ .myLabel-selected {
+    display: inline;
+}
+input[type=file]::-webkit-file-upload-button {
+
+    background-color: transparent;
+    border: transparent;
+    color: transparent;
+
+}
+
+input[type=file]::file-selector-button {
+
+    background-color: transparent;
+    border: transparent;
+    color: transparent;
+}

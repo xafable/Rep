@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7347c5e-e6fc-4da7-a950-4f953483b63c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jS8PLo3eb4aeL9pCiLLCn0ZPB0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\onlineeditor\old" />
+      <recent name="C:\OpenServer\domains\onlineeditor\Views" />
+      <recent name="C:\OpenServer\domains\onlineeditor\Controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7347c5e-e6fc-4da7-a950-4f953483b63c" name="Default Changelist" comment="" />
+      <created>1603786107445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603786107445</updated>
+      <workItem from="1603786108551" duration="23654000" />
+      <workItem from="1603866925017" duration="13000" />
+      <workItem from="1603867044909" duration="22237000" />
+      <workItem from="1603971096125" duration="19115000" />
+      <workItem from="1604037389475" duration="20890000" />
+      <workItem from="1604131476879" duration="5406000" />
+      <workItem from="1604305928899" duration="33413000" />
+      <workItem from="1604472748584" duration="9956000" />
+      <workItem from="1604492536994" duration="32271000" />
+      <workItem from="1604647436593" duration="9030000" />
+      <workItem from="1604690490818" duration="4000000" />
+      <workItem from="1604731200078" duration="16590000" />
+      <workItem from="1604992420260" duration="16687000" />
+      <workItem from="1605078581305" duration="22000" />
+      <workItem from="1605078674026" duration="19967000" />
+      <workItem from="1605168147441" duration="3903000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="337" y="364" key="#SQL_Dialects" timestamp="1605036790130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="337" y="364" key="#SQL_Dialects/0.0.1920.1040@0.0.1920.1040" timestamp="1605036790130" />
+    <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605036874324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605036874324" />
+    <state x="765" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1604493037332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604493037332" />
+    <state x="713" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605103319424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605103319424" />
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604050968504">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="269" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604050968504" />
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605094638735">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605094638735" />
+    <state x="773" y="264" key="NewPhpClassDialog" timestamp="1605111731674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="773" y="264" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605111731674" />
+    <state x="795" y="451" key="NewPhpFileDialog" timestamp="1605111175331">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="451" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605111175331" />
+    <state x="463" y="166" key="SettingsEditor" timestamp="1605078724781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605078724781" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1604425786958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604425786958" />
+  </component>
+</project>
